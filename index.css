@@ -1,5 +1,3 @@
-
-
 .containertop{
 	display: grid;  
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -13,15 +11,6 @@
 	justify-content: start;
 }
 
-/*.container{
-	display: grid;  
-    grid-gap: 15px;  
-    grid-template-columns: 80%;
-    grid-auto-rows: auto;
-    grid-auto-flow: dense;
-}*/
-
-
 .conteneurbarre2{
 	display: grid;
 	grid-template-columns: 100%; 
@@ -29,17 +18,14 @@
 }
 
 .containercontact{
-	display: grid;
-	grid-template-columns: 1fr 2fr;
-	grid-template-rows: auto;
-	grid-gap: 40px;
+	display: grid;  
+    grid-template-columns: repeat(auto-fit, 130px);
+	grid-gap: 20px;
 }
-
 
 .Photo {
     float: left;
     margin-right: 40px;
-    margin-bottom: 80px;
 }
 
 
