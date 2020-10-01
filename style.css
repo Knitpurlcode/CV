@@ -40,7 +40,9 @@ a:hover
    background-color: #CCCC66;
 }
 
-
+ul{
+  font-family: 'Raleway', sans-serif;
+}
 
 
 .container > div {
